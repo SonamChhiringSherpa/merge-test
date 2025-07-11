@@ -1,2 +1,2 @@
-hello // changes done by friend
-third line of code
+hello // changes done by me 
+second line of code 
